@@ -1,6 +1,6 @@
 # TailwindCSS İnceleme Sayfası
 
-- [Sayfaya Ulamak İçin Tıkalyınız]()
+- [Sayfaya Ulamak İçin Tıkalyınız](https://ardaatprk.github.io/TailwindCSSReviewPage/)
 
 ## Özellikler
 
